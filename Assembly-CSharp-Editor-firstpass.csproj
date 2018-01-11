@@ -52,6 +52,13 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
+     <None Include="Assets\Assets\PlatformerPack\Player\p3_spritesheet.txt" />
+     <None Include="Assets\Assets\PlatformerPack\HUD\hud_spritesheet.xml" />
+     <None Include="Assets\Assets\PlatformerPack\Player\p2_spritesheet.txt" />
+     <None Include="Assets\Assets\PlatformerPack\Enemies\enemies_spritesheet.txt" />
+     <None Include="Assets\Assets\PlatformerPack\Tiles\tiles_spritesheet.xml" />
+     <None Include="Assets\Assets\PlatformerPack\Player\p1_spritesheet.txt" />
+     <None Include="Assets\Assets\PlatformerPack\Items\items_spritesheet.xml" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>F:/Unity Projects/2D Platformer Game/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
