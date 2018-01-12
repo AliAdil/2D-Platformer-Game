@@ -8,8 +8,8 @@ public class PlayerMovement : MonoBehaviour {
     public float speed = 10.0f;
 
     //Game boundries
-    private float leftwall = -4f;
-    private float rightwall = 4f;
+    private float leftwall = -2f;
+    private float rightwall = 2f;
 	// Use this for initialization
 	void Start () {
 		
