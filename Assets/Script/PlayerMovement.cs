@@ -21,6 +21,7 @@ public class PlayerMovement : MonoBehaviour {
         // the value is in the range to -1 to 1 
         // make it move per second instead of frames
         float translation = Input.GetAxis("Horizontal") * speed * Time.deltaTime;
+        Debug.Log("Translation " + translation + " = " + "Input.GetAxis Horizontal " + Input.GetAxis("Horizontal") + " * Speed " + speed + " *Time.deltaTime " +Time.deltaTime);
         // Move along the object's x-axis within the floor boinds
         if (transform.position.x + translation < rightwall && transform.position.x + translation > leftwall)
             transform.Translate(translation, 0, 0); 		
