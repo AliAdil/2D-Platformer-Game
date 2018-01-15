@@ -68,6 +68,8 @@
      <None Include="Assets\Tiled2Unity\Shaders\shaDefault.shader" />
      <None Include="Assets\Tiled2Unity\Shaders\shaDepth-Instanced.shader" />
      <None Include="Assets\Tiled2Unity\Prefabs\_ReadMe.txt" />
+     <None Include="Assets\PlatformerPack\Player\p1_spritesheet.txt" />
+     <None Include="Assets\PlatformerPack\HUD\hud_spritesheet.xml" />
      <None Include="Assets\Tiled2Unity\Shaders\Tiled2Unity.cginc" />
      <None Include="Assets\Assets\PlatformerPack\Player\p3_spritesheet.txt" />
      <None Include="Assets\Tiled2Unity\Tiled2Unity.export.txt" />
@@ -75,20 +77,26 @@
      <None Include="Assets\Tiled2Unity\Shaders\shaDepth.shader" />
      <None Include="Assets\Tiled2Unity\Shaders\shaDiffuseDepth.shader" />
      <None Include="Assets\Assets\PlatformerPack\Player\p2_spritesheet.txt" />
+     <None Include="Assets\PlatformerPack\Player\p3_spritesheet.txt" />
      <None Include="Assets\Assets\PlatformerPack\Enemies\enemies_spritesheet.txt" />
+     <None Include="Assets\PlatformerPack\Items\items_spritesheet.xml" />
      <None Include="Assets\Assets\PlatformerPack\Tiles\tiles_spritesheet.xml" />
+     <None Include="Assets\PlatformerPack\Enemies\enemies_spritesheet.txt" />
      <None Include="Assets\Assets\PlatformerPack\Player\p1_spritesheet.txt" />
      <None Include="Assets\Assets\PlatformerPack\Items\items_spritesheet.xml" />
      <None Include="Assets\Tiled2Unity\Materials\_ReadMe.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Tiled2Unity\Textures\_ReadMe.txt" />
+     <None Include="Assets\Tiled2Unity\Imported\Map1.tiled2unity.xml" />
      <None Include="Assets\Tiled2Unity\Shaders\shaDefault-Instanced.shader" />
      <None Include="Assets\Tiled2Unity\Shaders\shaColorKey-Instanced.shader" />
+     <None Include="Assets\PlatformerPack\Player\p2_spritesheet.txt" />
      <None Include="Assets\Tiled2Unity\Shaders\shaColorKey.shader" />
      <None Include="Assets\Tiled2Unity\Shaders\shaDepthColorKey.shader" />
      <None Include="Assets\Tiled2Unity\Shaders\shaDepthColorKey-Instanced.shader" />
      <None Include="Assets\Tiled2Unity\License.txt" />
      <None Include="Assets\Tiled2Unity\Imported\_ReadMe.txt" />
+     <None Include="Assets\PlatformerPack\Tiles\tiles_spritesheet.xml" />
      <None Include="Assets\Tiled2Unity\Meshes\_ReadMe.txt" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>F:/Unity Projects/2D Platformer Game/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
