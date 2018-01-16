@@ -28,7 +28,29 @@ public class GameHandler : MonoBehaviour {
             StopGame();
         }
     }
-    
+
+    public void SubtractHealth()
+    {
+        health -= 1;
+        healthUI.text = health.ToString();
+        if (health == 0)
+        {
+            gameOverUI.SetActive(true);
+            StopGame();
+        }
+    }
+
+    public void AddScore()
+    {
+        score += 10;
+        scoreUI.text = score.ToString();
+    }
+
+    public void StopGame()
+    {
+        gameOver = true;
+        gameObject.SetActive(false);
+    }
     
     
     // Use this for initialization
