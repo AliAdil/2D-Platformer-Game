@@ -38,7 +38,7 @@ GameObject:
   - component: {fileID: 61978762775637270}
   m_Layer: 0
   m_Name: ladder_bottom
-  m_TagString: Untagged
+  m_TagString: Ending
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -55,7 +55,7 @@ GameObject:
   - component: {fileID: 61009995479100728}
   m_Layer: 0
   m_Name: ladder
-  m_TagString: Untagged
+  m_TagString: Ending
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -66,7 +66,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1109413001448008}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 28.806627, y: -0.5540031, z: -0.0126953125}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -182,8 +182,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 890568105
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: a52b8a6d6c867f843bee18c7b077cbfe, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -226,8 +226,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 890568105
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 43b95d15fe9cdab4fa4a9565dbc1eeed, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
