@@ -27,6 +27,11 @@ public class GameHandler : MonoBehaviour {
             gameOverUI.SetActive(true);
             StopGame();
         }
+        else if (c.tag == "Ending")
+        {
+            youWinUI.SetActive(true);
+            StopGame();
+        }
     }
 
     public void SubtractHealth()
